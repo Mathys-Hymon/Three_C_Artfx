@@ -1,4 +1,6 @@
 ## 3c Workshop
+<img align="center" alt="Hollow Knight" width="25px" style="padding-right:10px;" src="https://mailmeteor.com/logos/assets/PNG/Google_Slides_Logo_256px.png"> <br/>
+## [Google Slide](https://docs.google.com/presentation/d/1mrQRTUwAPzKbt-4rvvUp7E6ZVWyIQ8VGPT8fnijD7NQ/edit?usp=sharing)
 
 **👾 Selected games 👾**
 <br/>
@@ -14,6 +16,22 @@
 ## 🕹️ Controls 🕹️
 **Hollow Knight**
 
-**👾 Selected games 👾**
+`A/D | Left stick -- Move`
+<br/>
+`W/S | Left stick -- Look Up / Down`
+<br/>
+`Space | A        -- Jump`
 
-**👾 Selected games 👾**
+**Little Hope**
+
+`W/A/S/D | Left stick -- Move`
+<br/>
+`Mouse | Right stick -- Look Around`
+
+**World Of Warcraft**
+
+`W/A/S/D | Left stick -- Move`
+<br/>
+`Mouse Wheel click + Mouse | Right Trigger + Right stick -- Look Around`
+<br/>
+`Mouse Wheel | Right stick -- Zoom In / Out`
