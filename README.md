@@ -36,6 +36,7 @@
 | ⌨ Keyboard ⌨         | 🕹️ Controller 🕹️          | 🏃 Action 🏃  | 
 |-------------------------|----------------------------|---------------|
 |W/A/S/D                  | Left Stick                 | Move          |
+|Left Shift               | 🅰️                         | Sprint        |
 |Mouse Wheel click + Mouse| Right Trigger + Right stick| Look Around   |
 |Mouse Wheel              | Right stick                | Zoom In / Out |
 <br/>
