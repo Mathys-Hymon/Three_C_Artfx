@@ -15,22 +15,27 @@
 ## 🕹️ Controls 🕹️
 **Hollow Knight**
 
-`A/D | Left stick -- Move`
+|⌨ Keyboard ⌨ | 🕹️ Controller 🕹️| 🏃 Action 🏃| 
+|----------------|------------------|-------------|
+|A/D             | Left Stick X axis| Move        |
+|W/S             | Left Stick Y axis| Look Up/Down|
+|Space           | 🅰️               | Jump       |
 <br/>
-`W/S | Left stick -- Look Up / Down`
-<br/>
-`Space | A        -- Jump`
 
 **Little Hope**
 
-`W/A/S/D | Left stick -- Move`
+
+| ⌨ Keyboard ⌨ | 🕹️ Controller 🕹️| 🏃 Action 🏃| 
+|-----------------|------------------|-------------|
+|W/A/S/D          | Left Stick       | Move        |
+|Mouse            | Right Stick      | Look Around |
 <br/>
-`Mouse | Right stick -- Look Around`
 
 **World Of Warcraft**
 
-`W/A/S/D | Left stick -- Move`
+| ⌨ Keyboard ⌨         | 🕹️ Controller 🕹️          | 🏃 Action 🏃  | 
+|-------------------------|----------------------------|---------------|
+|W/A/S/D                  | Left Stick                 | Move          |
+|Mouse Wheel click + Mouse| Right Trigger + Right stick| Look Around   |
+|Mouse Wheel              | Right stick                | Zoom In / Out |
 <br/>
-`Mouse Wheel click + Mouse | Right Trigger + Right stick -- Look Around`
-<br/>
-`Mouse Wheel | Right stick -- Zoom In / Out`
