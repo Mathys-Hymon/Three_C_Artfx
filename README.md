@@ -12,7 +12,7 @@
 <br/>
 
 ## 🕹️ Controls 🕹️
-**👾 Selected games 👾**
+**Hollow Knight**
 
 **👾 Selected games 👾**
 
