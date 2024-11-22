@@ -1,6 +1,5 @@
 ## 3c Workshop
-<img align="center" alt="Hollow Knight" width="25px" style="padding-right:10px;" src="https://mailmeteor.com/logos/assets/PNG/Google_Slides_Logo_256px.png"> <br/>
-## [Google Slide](https://docs.google.com/presentation/d/1mrQRTUwAPzKbt-4rvvUp7E6ZVWyIQ8VGPT8fnijD7NQ/edit?usp=sharing)
+<img align="center" alt="Hollow Knight" width="25px" style="padding-right:10px;" src="https://mailmeteor.com/logos/assets/PNG/Google_Slides_Logo_256px.png"> [Google Slide](https://docs.google.com/presentation/d/1mrQRTUwAPzKbt-4rvvUp7E6ZVWyIQ8VGPT8fnijD7NQ/edit?usp=sharing)
 
 **👾 Selected games 👾**
 <br/>
