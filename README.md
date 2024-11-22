@@ -12,10 +12,8 @@
 <br/>
 
 ## 🕹️ Controls 🕹️
-<br/>
-<br/>
-**World of Warcraft**
+** World of Warcraft **
 
-**Hollow Knight**
+** Hollow Knight **
 
-**Little Hope**
+** Little Hope **
