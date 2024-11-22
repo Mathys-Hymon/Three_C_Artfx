@@ -12,8 +12,8 @@
 <br/>
 
 ## 🕹️ Controls 🕹️
-** World of Warcraft **
+**👾 Selected games 👾**
 
-** Hollow Knight **
+**👾 Selected games 👾**
 
-** Little Hope **
+**👾 Selected games 👾**
