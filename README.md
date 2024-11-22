@@ -7,6 +7,7 @@
 <img align="center" alt="TheQuarry" width="50" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Blank_square.svg">
 <img align="center" alt="TheQuarry" width="180px" style="padding-right:10px;" src="https://cdn.prgloo.com/media/ae9738f2746047cb828c8f644bdc3587.png?width=1200&height=1800">
 <img align="center" alt="TheQuarry" width="50" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Blank_square.svg">
+**                        **
 <img align="center" alt="World Of Warcraft" width="180px" style="padding-right:10px;" src="https://logo-marque.com/wp-content/uploads/2021/02/World-of-Warcraft-Logo-2004-present.png">
 <br/>
 <br/>
